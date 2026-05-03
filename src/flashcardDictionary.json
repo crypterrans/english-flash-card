@@ -1,0 +1,148 @@
+{
+  "Elementary": {
+    "Food": [
+      { "emoji": "🍎", "word": "Apple", "partOfSpeech": "noun", "exampleSentence": "She eats an apple every morning.", "hint": "A red or green fruit that grows on trees." },
+      { "emoji": "🍕", "word": "Pizza", "partOfSpeech": "noun", "exampleSentence": "We ordered pizza for dinner.", "hint": "A round flat bread topped with cheese and sauce." },
+      { "emoji": "🥦", "word": "Broccoli", "partOfSpeech": "noun", "exampleSentence": "Mom always puts broccoli in our soup.", "hint": "A dark green vegetable that looks like a tiny tree." },
+      { "emoji": "🍦", "word": "Ice Cream", "partOfSpeech": "noun", "exampleSentence": "The children love ice cream on a hot day.", "hint": "A sweet, cold, frozen dessert." },
+      { "emoji": "🍰", "word": "Cake", "partOfSpeech": "noun", "exampleSentence": "We baked a cake for her birthday.", "hint": "A sweet baked dessert, often with frosting." },
+      { "emoji": "🥗", "word": "Salad", "partOfSpeech": "noun", "exampleSentence": "She made a fresh salad with tomatoes.", "hint": "A dish made of raw vegetables mixed together." },
+      { "emoji": "🍳", "word": "Cook", "partOfSpeech": "verb", "exampleSentence": "My dad loves to cook on weekends.", "hint": "To prepare food using heat." },
+      { "emoji": "🍇", "word": "Grapes", "partOfSpeech": "noun", "exampleSentence": "He picked grapes from the vine.", "hint": "Small round fruits that grow in clusters." }
+    ],
+    "Animals": [
+      { "emoji": "🐶", "word": "Dog", "partOfSpeech": "noun", "exampleSentence": "The dog wagged its tail when I came home.", "hint": "A loyal pet that barks and loves to play." },
+      { "emoji": "🐱", "word": "Cat", "partOfSpeech": "noun", "exampleSentence": "My cat sleeps on the sofa all day.", "hint": "A furry pet that purrs and meows." },
+      { "emoji": "🐘", "word": "Elephant", "partOfSpeech": "noun", "exampleSentence": "The elephant used its trunk to drink water.", "hint": "The largest land animal, with a long trunk." },
+      { "emoji": "🦁", "word": "Lion", "partOfSpeech": "noun", "exampleSentence": "The lion roared loudly in the jungle.", "hint": "A big wild cat called the king of the jungle." },
+      { "emoji": "🐬", "word": "Dolphin", "partOfSpeech": "noun", "exampleSentence": "We saw a dolphin jumping out of the sea.", "hint": "A smart ocean animal that can jump and communicate." },
+      { "emoji": "🦋", "word": "Butterfly", "partOfSpeech": "noun", "exampleSentence": "A beautiful butterfly landed on the flower.", "hint": "An insect with colorful wings." },
+      { "emoji": "🐢", "word": "Turtle", "partOfSpeech": "noun", "exampleSentence": "The turtle slowly crossed the road.", "hint": "A slow animal with a hard shell on its back." },
+      { "emoji": "🦜", "word": "Parrot", "partOfSpeech": "noun", "exampleSentence": "The parrot can copy everything you say.", "hint": "A colorful tropical bird that can talk." }
+    ],
+    "Actions": [
+      { "emoji": "🏃", "word": "Run", "partOfSpeech": "verb", "exampleSentence": "She runs to school every morning.", "hint": "To move very fast on your feet." },
+      { "emoji": "💃", "word": "Dance", "partOfSpeech": "verb", "exampleSentence": "They dance together at every school party.", "hint": "To move your body to the rhythm of music." },
+      { "emoji": "🎨", "word": "Paint", "partOfSpeech": "verb", "exampleSentence": "She loves to paint pictures of the ocean.", "hint": "To put color on a surface using a brush." },
+      { "emoji": "📖", "word": "Read", "partOfSpeech": "verb", "exampleSentence": "He reads a new book every week.", "hint": "To look at written words and understand them." },
+      { "emoji": "🛌", "word": "Sleep", "partOfSpeech": "verb", "exampleSentence": "Children should sleep for at least 8 hours.", "hint": "To rest with eyes closed and body inactive." },
+      { "emoji": "🗣️", "word": "Speak", "partOfSpeech": "verb", "exampleSentence": "Can you speak a little louder, please?", "hint": "To say words out loud using your voice." },
+      { "emoji": "✏️", "word": "Write", "partOfSpeech": "verb", "exampleSentence": "Please write your name at the top of the paper.", "hint": "To form letters and words on a surface." },
+      { "emoji": "🤸", "word": "Jump", "partOfSpeech": "verb", "exampleSentence": "The kids love to jump on the trampoline.", "hint": "To push off the ground and go into the air." }
+    ],
+    "School": [
+      { "emoji": "📚", "word": "Books", "partOfSpeech": "noun", "exampleSentence": "The library is full of books on every topic.", "hint": "Written works bound together between covers." },
+      { "emoji": "🎒", "word": "Backpack", "partOfSpeech": "noun", "exampleSentence": "She packed her backpack the night before school.", "hint": "A bag with straps that you carry on your back." },
+      { "emoji": "📐", "word": "Ruler", "partOfSpeech": "noun", "exampleSentence": "Use a ruler to draw a straight line.", "hint": "A flat tool used to measure length." },
+      { "emoji": "🏫", "word": "School", "partOfSpeech": "noun", "exampleSentence": "School starts at 8 o'clock every morning.", "hint": "A place where students go to learn." },
+      { "emoji": "📝", "word": "Test", "partOfSpeech": "noun", "exampleSentence": "He studied all night to prepare for the test.", "hint": "A set of questions to measure what you know." },
+      { "emoji": "👩‍🏫", "word": "Teacher", "partOfSpeech": "noun", "exampleSentence": "The teacher explained the lesson very clearly.", "hint": "A person who helps students learn." },
+      { "emoji": "🖊️", "word": "Pen", "partOfSpeech": "noun", "exampleSentence": "Please use a blue pen to fill out the form.", "hint": "A writing tool that uses ink." },
+      { "emoji": "🖥️", "word": "Computer", "partOfSpeech": "noun", "exampleSentence": "We use a computer in every class now.", "hint": "An electronic machine that processes information." }
+    ]
+  },
+  "Middle School": {
+    "Travel": [
+      { "emoji": "✈️", "word": "Flight", "partOfSpeech": "noun", "exampleSentence": "Our flight to London was delayed by two hours.", "hint": "A journey made by airplane." },
+      { "emoji": "🧳", "word": "Luggage", "partOfSpeech": "noun", "exampleSentence": "They lost my luggage at the airport!", "hint": "Bags and suitcases you bring on a trip." },
+      { "emoji": "🗺️", "word": "Itinerary", "partOfSpeech": "noun", "exampleSentence": "She planned a detailed itinerary for the whole trip.", "hint": "A planned route or schedule for a journey." },
+      { "emoji": "🏨", "word": "Accommodation", "partOfSpeech": "noun", "exampleSentence": "We need to book our accommodation before we leave.", "hint": "A place where you stay when you travel." },
+      { "emoji": "🛂", "word": "Immigration", "partOfSpeech": "noun", "exampleSentence": "The officer checked our passports at immigration.", "hint": "The process of entering a country from another." },
+      { "emoji": "🗼", "word": "Landmark", "partOfSpeech": "noun", "exampleSentence": "The Eiffel Tower is Paris's most famous landmark.", "hint": "A famous building or place used to identify a location." },
+      { "emoji": "🏖️", "word": "Destination", "partOfSpeech": "noun", "exampleSentence": "Bali is one of the most popular tourist destinations.", "hint": "The place you are traveling to." },
+      { "emoji": "🚂", "word": "Train", "partOfSpeech": "noun", "exampleSentence": "We took a train from Paris to Amsterdam.", "hint": "A vehicle that travels on tracks." }
+    ],
+    "Emotions": [
+      { "emoji": "😤", "word": "Frustrated", "partOfSpeech": "adjective", "exampleSentence": "She felt frustrated when her computer kept crashing.", "hint": "Feeling upset because something won't work." },
+      { "emoji": "😍", "word": "Fascinated", "partOfSpeech": "adjective", "exampleSentence": "The students were fascinated by the science experiment.", "hint": "Extremely interested and attracted by something." },
+      { "emoji": "😔", "word": "Melancholy", "partOfSpeech": "adjective", "exampleSentence": "The rainy weather made her feel melancholy.", "hint": "A deep feeling of sadness or sorrow." },
+      { "emoji": "😰", "word": "Anxious", "partOfSpeech": "adjective", "exampleSentence": "He was anxious about the results of his exam.", "hint": "Feeling worried about what might happen." },
+      { "emoji": "🤯", "word": "Overwhelmed", "partOfSpeech": "adjective", "exampleSentence": "She was overwhelmed by the amount of homework.", "hint": "Having too much to deal with at once." },
+      { "emoji": "🥺", "word": "Vulnerable", "partOfSpeech": "adjective", "exampleSentence": "He felt vulnerable after sharing his personal story.", "hint": "Feeling open to being hurt emotionally." },
+      { "emoji": "😴", "word": "Exhausted", "partOfSpeech": "adjective", "exampleSentence": "After the marathon, the runners were completely exhausted.", "hint": "Extremely tired, having used up all energy." },
+      { "emoji": "🤩", "word": "Amazed", "partOfSpeech": "adjective", "exampleSentence": "He was amazed by the magician's tricks.", "hint": "Greatly surprised or filled with wonder." }
+    ],
+    "Weather & Nature": [
+      { "emoji": "🌪️", "word": "Tornado", "partOfSpeech": "noun", "exampleSentence": "A tornado swept through the small town overnight.", "hint": "A violent spinning column of air." },
+      { "emoji": "⚡", "word": "Lightning", "partOfSpeech": "noun", "exampleSentence": "The lightning lit up the entire sky during the storm.", "hint": "A flash of electricity from a cloud." },
+      { "emoji": "🌊", "word": "Tsunami", "partOfSpeech": "noun", "exampleSentence": "The earthquake triggered a dangerous tsunami.", "hint": "A huge ocean wave caused by an underwater earthquake." },
+      { "emoji": "🌋", "word": "Volcano", "partOfSpeech": "noun", "exampleSentence": "The volcano erupted and sent ash into the air.", "hint": "A mountain that can shoot hot lava." },
+      { "emoji": "🌈", "word": "Rainbow", "partOfSpeech": "noun", "exampleSentence": "A beautiful rainbow appeared after the rain.", "hint": "An arc of colors in the sky after rain." },
+      { "emoji": "🏔️", "word": "Mountain", "partOfSpeech": "noun", "exampleSentence": "They climbed the mountain over three days.", "hint": "A very large, tall area of land." },
+      { "emoji": "🌡️", "word": "Temperature", "partOfSpeech": "noun", "exampleSentence": "The temperature dropped below zero last night.", "hint": "A measure of how hot or cold something is." },
+      { "emoji": "🌿", "word": "Vegetation", "partOfSpeech": "noun", "exampleSentence": "The rainforest has dense vegetation.", "hint": "All the plants and trees growing in an area." }
+    ],
+    "Sports": [
+      { "emoji": "🏆", "word": "Championship", "partOfSpeech": "noun", "exampleSentence": "Their team won the national championship.", "hint": "The final competition to decide the best team." },
+      { "emoji": "🏋️", "word": "Weightlifting", "partOfSpeech": "noun", "exampleSentence": "Weightlifting requires a lot of strength and technique.", "hint": "A sport where you lift heavy weights." },
+      { "emoji": "🏊", "word": "Swimming", "partOfSpeech": "noun", "exampleSentence": "Swimming laps is great exercise for the whole body.", "hint": "Moving through water using arms and legs." },
+      { "emoji": "🚴", "word": "Cycling", "partOfSpeech": "noun", "exampleSentence": "Cycling to work saves money and helps the environment.", "hint": "Riding a bicycle as sport or transport." },
+      { "emoji": "🧘", "word": "Meditation", "partOfSpeech": "noun", "exampleSentence": "Athletes use meditation to stay calm before competitions.", "hint": "Quiet mental focus to relax and clear the mind." },
+      { "emoji": "🎽", "word": "Marathon", "partOfSpeech": "noun", "exampleSentence": "She trained for six months to run her first marathon.", "hint": "A long-distance running race of 42 kilometers." },
+      { "emoji": "⛹️", "word": "Basketball", "partOfSpeech": "noun", "exampleSentence": "Basketball is popular among middle school students.", "hint": "A sport where teams shoot a ball into a hoop." },
+      { "emoji": "🤸", "word": "Gymnastics", "partOfSpeech": "noun", "exampleSentence": "She has been doing gymnastics since she was five.", "hint": "A sport involving balance, flexibility and acrobatics." }
+    ],
+    "Technology": [
+      { "emoji": "💻", "word": "Laptop", "partOfSpeech": "noun", "exampleSentence": "She brought her laptop to the coffee shop to work.", "hint": "A portable computer that folds and runs on battery." },
+      { "emoji": "📱", "word": "Smartphone", "partOfSpeech": "noun", "exampleSentence": "Almost every student has a smartphone these days.", "hint": "A mobile phone that can connect to the internet." },
+      { "emoji": "🤖", "word": "Artificial Intelligence", "partOfSpeech": "noun", "exampleSentence": "Artificial intelligence can now write essays and generate images.", "hint": "The ability of computers to perform human-like tasks." },
+      { "emoji": "📡", "word": "Satellite", "partOfSpeech": "noun", "exampleSentence": "GPS uses satellite signals to track your location.", "hint": "A man-made object that orbits the Earth." },
+      { "emoji": "🔐", "word": "Password", "partOfSpeech": "noun", "exampleSentence": "Always use a strong password to protect your accounts.", "hint": "A secret word to protect access to something." },
+      { "emoji": "🔋", "word": "Battery", "partOfSpeech": "noun", "exampleSentence": "My phone battery died right in the middle of the call.", "hint": "A device that stores electrical energy." },
+      { "emoji": "🌐", "word": "Internet", "partOfSpeech": "noun", "exampleSentence": "The internet connects billions of people worldwide.", "hint": "A global network connecting computers around the world." },
+      { "emoji": "💾", "word": "Data", "partOfSpeech": "noun", "exampleSentence": "The company stores its data on secure cloud servers.", "hint": "Information processed or stored by a computer." }
+    ]
+  },
+  "High School": {
+    "Idioms & Phrasal Verbs": [
+      { "emoji": "🌉🔥", "word": "Burn Bridges", "partOfSpeech": "idiom", "exampleSentence": "Don't burn bridges with your old coworkers.", "hint": "To permanently damage a relationship." },
+      { "emoji": "🕰️💸", "word": "Time is Money", "partOfSpeech": "idiom", "exampleSentence": "Stop wasting time — time is money!", "hint": "Time is a valuable resource that shouldn't be wasted." },
+      { "emoji": "🐘🛋️", "word": "Elephant in the Room", "partOfSpeech": "idiom", "exampleSentence": "Nobody mentioned the elephant in the room.", "hint": "An obvious problem that everyone ignores." },
+      { "emoji": "🧊💔", "word": "Break the Ice", "partOfSpeech": "idiom", "exampleSentence": "He told a joke to break the ice at the party.", "hint": "To do something to reduce tension in a social situation." },
+      { "emoji": "🌱💭", "word": "Food for Thought", "partOfSpeech": "idiom", "exampleSentence": "Her speech gave me a lot of food for thought.", "hint": "Something that deserves serious consideration." },
+      { "emoji": "🌊⬆️", "word": "Rise Above", "partOfSpeech": "phrasal verb", "exampleSentence": "She managed to rise above the criticism.", "hint": "To not be negatively affected by a bad situation." },
+      { "emoji": "🎯🔨", "word": "Hit the Nail on the Head", "partOfSpeech": "idiom", "exampleSentence": "You hit the nail on the head with that analysis.", "hint": "To describe something exactly correctly." },
+      { "emoji": "🚪👋", "word": "Give the Cold Shoulder", "partOfSpeech": "idiom", "exampleSentence": "She gave him the cold shoulder after the argument.", "hint": "To deliberately ignore someone." }
+    ],
+    "Careers": [
+      { "emoji": "👨‍⚕️", "word": "Physician", "partOfSpeech": "noun", "exampleSentence": "The physician recommended complete bed rest for a week.", "hint": "A medical doctor who diagnoses and treats illness." },
+      { "emoji": "👨‍💻", "word": "Software Engineer", "partOfSpeech": "noun", "exampleSentence": "She works as a software engineer at a tech startup.", "hint": "A person who designs and builds computer programs." },
+      { "emoji": "👩‍⚖️", "word": "Attorney", "partOfSpeech": "noun", "exampleSentence": "She hired an attorney to help with the legal case.", "hint": "A lawyer who represents people in court." },
+      { "emoji": "🏗️", "word": "Architect", "partOfSpeech": "noun", "exampleSentence": "The architect designed a stunning modern building.", "hint": "A person who designs buildings and structures." },
+      { "emoji": "🔬", "word": "Researcher", "partOfSpeech": "noun", "exampleSentence": "The researcher published her findings in a journal.", "hint": "A person who systematically investigates a subject." },
+      { "emoji": "📊", "word": "Analyst", "partOfSpeech": "noun", "exampleSentence": "The analyst predicted economic growth next year.", "hint": "A person who examines data to find insights." },
+      { "emoji": "🎓", "word": "Educator", "partOfSpeech": "noun", "exampleSentence": "As an educator, she inspired hundreds of students.", "hint": "A person whose job is to teach." },
+      { "emoji": "👨‍🍳", "word": "Chef", "partOfSpeech": "noun", "exampleSentence": "The chef created a new dish using local ingredients.", "hint": "A professional cook who leads a kitchen." }
+    ],
+    "Abstract Concepts": [
+      { "emoji": "⚖️", "word": "Justice", "partOfSpeech": "noun", "exampleSentence": "The activists fought for justice and equal rights.", "hint": "The quality of being fair and right." },
+      { "emoji": "🕊️", "word": "Peace", "partOfSpeech": "noun", "exampleSentence": "The two countries signed a treaty to maintain peace.", "hint": "A state of calm and freedom from conflict." },
+      { "emoji": "💡", "word": "Innovation", "partOfSpeech": "noun", "exampleSentence": "Innovation drives economic growth in modern societies.", "hint": "The introduction of new ideas or methods." },
+      { "emoji": "🌐", "word": "Globalization", "partOfSpeech": "noun", "exampleSentence": "Globalization has connected economies across the world.", "hint": "The process of countries becoming interconnected." },
+      { "emoji": "🔄", "word": "Paradox", "partOfSpeech": "noun", "exampleSentence": "It's a paradox that being too busy makes you less productive.", "hint": "A statement that seems contradictory but may be true." },
+      { "emoji": "🎭", "word": "Irony", "partOfSpeech": "noun", "exampleSentence": "The irony is that the fire station burned down.", "hint": "When the opposite of what is expected happens." },
+      { "emoji": "🧩", "word": "Complexity", "partOfSpeech": "noun", "exampleSentence": "The complexity of the problem confused many experts.", "hint": "The state of having many connected parts." },
+      { "emoji": "♾️", "word": "Infinity", "partOfSpeech": "noun", "exampleSentence": "Space seems to stretch on toward infinity.", "hint": "A quantity without end or limit." }
+    ],
+    "Society": [
+      { "emoji": "🗳️", "word": "Democracy", "partOfSpeech": "noun", "exampleSentence": "Democracy allows citizens to vote for their leaders.", "hint": "A system of government where people vote." },
+      { "emoji": "📢", "word": "Propaganda", "partOfSpeech": "noun", "exampleSentence": "The government used propaganda to spread its message.", "hint": "Biased information used to promote a cause." },
+      { "emoji": "🤝", "word": "Diplomacy", "partOfSpeech": "noun", "exampleSentence": "Diplomacy prevented the conflict from becoming a war.", "hint": "Managing relations between countries through discussion." },
+      { "emoji": "🌍", "word": "Sustainability", "partOfSpeech": "noun", "exampleSentence": "Sustainability means using resources without harming the future.", "hint": "Doing things in a way that doesn't damage the environment." },
+      { "emoji": "📰", "word": "Journalism", "partOfSpeech": "noun", "exampleSentence": "Good journalism holds leaders accountable.", "hint": "The work of gathering and reporting news." },
+      { "emoji": "🧠", "word": "Psychology", "partOfSpeech": "noun", "exampleSentence": "Psychology helps us understand human behavior.", "hint": "The scientific study of the mind and behavior." },
+      { "emoji": "💰", "word": "Economy", "partOfSpeech": "noun", "exampleSentence": "A strong economy provides jobs for the population.", "hint": "The system of trade and production in a region." },
+      { "emoji": "🏛️", "word": "Legislature", "partOfSpeech": "noun", "exampleSentence": "The legislature passed a new environmental law.", "hint": "The body of government that makes laws." }
+    ],
+    "Arts & Culture": [
+      { "emoji": "🎭", "word": "Theatre", "partOfSpeech": "noun", "exampleSentence": "They performed a Shakespeare play at the city theatre.", "hint": "A place or art form where plays are performed." },
+      { "emoji": "🎼", "word": "Symphony", "partOfSpeech": "noun", "exampleSentence": "Beethoven's Fifth Symphony is one of the most famous pieces.", "hint": "A long piece of music written for an orchestra." },
+      { "emoji": "🖼️", "word": "Impressionism", "partOfSpeech": "noun", "exampleSentence": "Impressionism is known for its use of light and loose brushstrokes.", "hint": "An art style focusing on capturing a feeling, not exact details." },
+      { "emoji": "🎬", "word": "Cinematography", "partOfSpeech": "noun", "exampleSentence": "The cinematography in that film was absolutely stunning.", "hint": "The art of shooting and composing scenes in a film." },
+      { "emoji": "📖", "word": "Literature", "partOfSpeech": "noun", "exampleSentence": "She studied classic literature at university.", "hint": "Written works considered to have lasting value." },
+      { "emoji": "🏛️", "word": "Architecture", "partOfSpeech": "noun", "exampleSentence": "The architecture of ancient Rome still influences buildings today.", "hint": "The art and science of designing buildings." },
+      { "emoji": "🎤", "word": "Rhetoric", "partOfSpeech": "noun", "exampleSentence": "His powerful rhetoric moved the entire crowd.", "hint": "The art of effective or persuasive speaking." },
+      { "emoji": "🎨", "word": "Renaissance", "partOfSpeech": "noun", "exampleSentence": "The Renaissance was a period of great artistic achievement.", "hint": "A period of European cultural rebirth in the 14th–17th centuries." }
+    ]
+  }
+}
