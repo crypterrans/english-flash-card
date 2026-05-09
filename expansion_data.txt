@@ -1,0 +1,160 @@
+Elementary|Food|🍔|Burger|noun|He ordered a burger with cheese.|Meat patty in a bun.
+Elementary|Food|🌭|Hotdog|noun|We ate hotdogs at the baseball game.|Sausage in a sliced bun.
+Elementary|Food|🍟|French Fries|noun|I like fries with ketchup.|Fried potato strips.
+Elementary|Food|🥪|Sandwich|noun|She packed a sandwich for lunch.|Food between two slices of bread.
+Elementary|Food|🥞|Pancakes|noun|We had pancakes for breakfast.|Flat cake cooked in a pan.
+Elementary|Food|🍓|Strawberry|noun|The strawberry is sweet and red.|A small red fruit with seeds on the outside.
+Elementary|Food|🍉|Watermelon|noun|Watermelon is perfect for summer.|Large green fruit with red flesh.
+Elementary|Food|🥕|Carrot|noun|Rabbits love to eat carrots.|A long orange root vegetable.
+Elementary|Animals|🐒|Monkey|noun|The monkey swung from the tree.|An animal with a long tail that climbs.
+Elementary|Animals|🐧|Penguin|noun|The penguin waddled on the ice.|A black and white bird that swims but cannot fly.
+Elementary|Animals|🦒|Giraffe|noun|The giraffe has a very long neck.|A tall African animal with a long neck.
+Elementary|Animals|🦓|Zebra|noun|The zebra has black and white stripes.|An animal that looks like a striped horse.
+Elementary|Animals|🦘|Kangaroo|noun|A kangaroo carries its baby in a pouch.|An Australian animal that hops.
+Elementary|Animals|🦈|Shark|noun|The shark swam quickly in the ocean.|A large fish with sharp teeth.
+Elementary|Animals|🐙|Octopus|noun|The octopus has eight arms.|A sea creature with eight long arms.
+Elementary|Animals|🐝|Bee|noun|The bee makes honey from flowers.|A flying insect that makes honey.
+Elementary|Actions|🏊|Swim|verb|I like to swim in the pool.|To move through water.
+Elementary|Actions|🚴|Ride|verb|He can ride a bike very fast.|To travel on a bicycle or animal.
+Elementary|Actions|🚶|Walk|verb|We walk to the park every Sunday.|To move on foot.
+Elementary|Actions|🧗|Climb|verb|They climb the tall mountain.|To go up something using hands and feet.
+Elementary|Actions|🤸|Play|verb|The kids play games outside.|To do activities for fun.
+Elementary|Actions|🎤|Sing|verb|She loves to sing along with the radio.|To make musical sounds with your voice.
+Elementary|Actions|🧼|Wash|verb|Please wash your hands before dinner.|To clean with water and soap.
+Elementary|Actions|🧹|Clean|verb|We need to clean the messy room.|To remove dirt and make neat.
+Elementary|School|✂️|Scissors|noun|Use scissors to cut the paper.|A tool used for cutting.
+Elementary|School|🖍️|Crayon|noun|He drew a sun with a yellow crayon.|A stick of colored wax for drawing.
+Elementary|School|🎒|Bag|noun|She carries her books in a bag.|A container used to carry things.
+Elementary|School|🚌|Bus|noun|The yellow bus takes kids to school.|A large vehicle that carries many people.
+Elementary|School|🏫|Classroom|noun|There are many desks in the classroom.|A room where students learn.
+Elementary|School|🧑‍🎓|Student|noun|The student asked the teacher a question.|A person who goes to school to learn.
+Elementary|School|📝|Paper|noun|Write your answer on a piece of paper.|A material used for writing or drawing.
+Elementary|School|🔔|Bell|noun|The bell rang, so class is over.|An object that makes a ringing sound.
+Elementary|Clothing|👕|T-shirt|noun|He wears a white T-shirt in summer.|A casual shirt with short sleeves.
+Elementary|Clothing|👖|Pants|noun|She bought a new pair of blue pants.|Clothing for the lower body with two legs.
+Elementary|Clothing|👗|Dress|noun|She wore a beautiful red dress.|A piece of clothing that covers the body and legs.
+Elementary|Clothing|👟|Sneakers|noun|I need new sneakers for running.|Comfortable shoes for sports or casual wear.
+Elementary|Clothing|🧦|Socks|noun|Put on socks before you wear shoes.|Soft coverings for your feet.
+Elementary|Clothing|🧥|Coat|noun|Wear a heavy coat in winter.|A thick piece of clothing worn outside to stay warm.
+Elementary|Clothing|👒|Hat|noun|She wears a hat to protect her from the sun.|A covering for the head.
+Elementary|Clothing|🧣|Scarf|noun|He wrapped a scarf around his neck.|A piece of cloth worn around the neck for warmth.
+Elementary|Clothing|🧤|Gloves|noun|My hands are cold, so I wear gloves.|Coverings for the hands with separate fingers.
+Elementary|Clothing|👢|Boots|noun|She wore boots because it was raining.|Heavy shoes that cover the foot and ankle.
+Elementary|Clothing|👔|Tie|noun|He wore a suit and a tie to the wedding.|A long piece of cloth worn around the neck.
+Elementary|Clothing|🩳|Shorts|noun|We wear shorts when it is hot outside.|Short pants that stop above the knee.
+Elementary|Clothing|🕶️|Sunglasses|noun|I wear sunglasses when it is very bright.|Dark glasses that protect your eyes from the sun.
+Elementary|Clothing|👙|Swimsuit|noun|She packed her swimsuit for the beach.|Clothing worn for swimming.
+Elementary|Clothing|👛|Purse|noun|She carries her money in a purse.|A small bag used by women to carry everyday items.
+Elementary|Clothing|🎽|Tank Top|noun|He wore a tank top to the gym.|A shirt without arms or a collar.
+Middle School|Travel|🚢|Ship|noun|The large ship sailed across the ocean.|A large boat used for traveling on the sea.
+Middle School|Travel|🚁|Helicopter|noun|The helicopter flew over the city.|An aircraft with large spinning blades on top.
+Middle School|Travel|🚌|Bus Tour|noun|We took a bus tour to see the city sights.|A journey on a bus to visit places of interest.
+Middle School|Travel|🚇|Subway|noun|Taking the subway is the fastest way around the city.|An underground train system.
+Middle School|Travel|🚕|Taxi|noun|We caught a taxi to get to the hotel quickly.|A car driven by a person whose job is to take passengers where they want to go.
+Middle School|Travel|🎫|Ticket|noun|Show your ticket before getting on the train.|A piece of paper proving you paid for a journey.
+Middle School|Travel|🛂|Passport|noun|You must show your passport at the border.|An official document needed to travel to other countries.
+Middle School|Travel|💺|Seat|noun|I reserved a window seat on the flight.|A place to sit on a plane, train, or bus.
+Middle School|Emotions|😡|Furious|adjective|She was furious when her brother broke her phone.|Extremely angry.
+Middle School|Emotions|😭|Devastated|adjective|He was devastated after his pet ran away.|Extremely sad or shocked.
+Middle School|Emotions|😨|Terrified|adjective|I am terrified of large spiders.|Feeling extreme fear.
+Middle School|Emotions|🤢|Nauseous|adjective|The roller coaster made me feel nauseous.|Feeling like you are going to vomit.
+Middle School|Emotions|🥱|Bored|adjective|He was bored during the long movie.|Feeling tired and unhappy because something is not interesting.
+Middle School|Emotions|😕|Confused|adjective|She was confused by the difficult math problem.|Unable to understand or think clearly.
+Middle School|Emotions|😳|Embarrassed|adjective|He felt embarrassed when he fell on stage.|Feeling ashamed or self-conscious.
+Middle School|Emotions|😌|Relieved|adjective|I was relieved when I passed the hard exam.|Feeling happy because worry or fear has gone away.
+Middle School|Weather & Nature|☀️|Sunny|adjective|We went to the beach because it was sunny.|Having bright sunlight with no clouds.
+Middle School|Weather & Nature|🌧️|Rainy|adjective|It was a rainy afternoon, so we stayed inside.|Having a lot of rain.
+Middle School|Weather & Nature|❄️|Blizzard|noun|The blizzard covered the town in deep snow.|A severe snowstorm with strong winds.
+Middle School|Weather & Nature|🌬️|Windy|adjective|It is too windy to use an umbrella today.|Having a lot of wind.
+Middle School|Weather & Nature|🌫️|Foggy|adjective|Driving is dangerous when it is foggy.|Full of thick mist that makes it hard to see.
+Middle School|Weather & Nature|☁️|Cloudy|adjective|The sky is cloudy, so it might rain later.|Covered with clouds.
+Middle School|Weather & Nature|🌴|Jungle|noun|Many wild animals live in the tropical jungle.|A dense forest in a hot climate.
+Middle School|Weather & Nature|🏜️|Desert|noun|Cactuses grow well in the dry desert.|A large, dry area of land with very little rain.
+Middle School|Sports|⚽|Soccer|noun|He plays soccer with his friends every weekend.|A game played by kicking a round ball into a net.
+Middle School|Sports|🏈|Football|noun|American football is a very physical sport.|A game played with an oval ball, popular in the USA.
+Middle School|Sports|⚾|Baseball|noun|He hit a home run during the baseball game.|A game played with a bat, ball, and bases.
+Middle School|Sports|🎾|Tennis|noun|You need a racket and a net to play tennis.|A game where players hit a ball over a net.
+Middle School|Sports|🏐|Volleyball|noun|We played volleyball on the beach.|A game where a ball is hit over a high net with hands.
+Middle School|Sports|🎳|Bowling|noun|She got a strike on her first turn in bowling.|A game where you roll a heavy ball to knock down pins.
+Middle School|Sports|⛳|Golf|noun|He plays golf on Sunday mornings.|A game where players hit a small ball into a hole.
+Middle School|Sports|🎿|Skiing|noun|We went skiing in the mountains during winter.|A sport of sliding on snow using long flat boards.
+Middle School|Technology|🖱️|Mouse|noun|Move the mouse to click on the screen.|A small device used to control a computer.
+Middle School|Technology|⌨️|Keyboard|noun|She types quickly on her computer keyboard.|A board with buttons used to enter text into a computer.
+Middle School|Technology|🖨️|Printer|noun|The printer ran out of black ink.|A machine that prints documents onto paper.
+Middle School|Technology|📷|Camera|noun|Use your camera to take a picture of the view.|A device for taking photographs or video.
+Middle School|Technology|🎧|Headphones|noun|He wears headphones to listen to music quietly.|A pair of small speakers worn over the ears.
+Middle School|Technology|🎮|Controller|noun|You need a controller to play the video game.|A device used to interact with a video game.
+Middle School|Technology|🔌|Charger|noun|I need a charger because my phone battery is low.|A device used to put energy back into a battery.
+Middle School|Technology|💻|Software|noun|You need to update the software on your laptop.|Programs and instructions used by a computer.
+Middle School|Health|🏥|Hospital|noun|She went to the hospital for surgery.|A place where sick or injured people are treated.
+Middle School|Health|🚑|Ambulance|noun|The ambulance drove quickly to the emergency.|A special vehicle used to take sick people to the hospital.
+Middle School|Health|🩺|Stethoscope|noun|The doctor used a stethoscope to listen to my heart.|A medical tool used to listen to the body.
+Middle School|Health|💊|Medicine|noun|Take this medicine twice a day with water.|A substance used to treat illness or pain.
+Middle School|Health|💉|Vaccine|noun|The vaccine protects people from dangerous viruses.|A substance given to prevent a disease.
+Middle School|Health|🩹|Bandage|noun|Put a bandage on your cut to keep it clean.|A strip of material used to cover a wound.
+Middle School|Health|🤒|Fever|noun|He stayed in bed because he had a high fever.|A high body temperature usually caused by illness.
+Middle School|Health|🤧|Allergy|noun|Her allergy makes her sneeze when there is pollen.|A reaction by the body to a specific substance.
+Middle School|Health|🤕|Injury|noun|He suffered a knee injury while playing sports.|Physical harm or damage to the body.
+Middle School|Health|🩸|Blood|noun|The heart pumps blood through the body.|The red liquid that flows through the bodies of humans.
+Middle School|Health|🦷|Dentist|noun|The dentist checked my teeth for cavities.|A doctor who treats teeth and gums.
+Middle School|Health|🦴|Skeleton|noun|The human skeleton is made up of many bones.|The internal structure of bones in a body.
+Middle School|Health|🧠|Brain|noun|The brain controls everything your body does.|The organ inside the head that controls thought and feeling.
+Middle School|Health|🫀|Heart|noun|Your heart beats faster when you run.|The organ that pumps blood through the body.
+Middle School|Health|🫁|Lungs|noun|We use our lungs to breathe oxygen.|The organs in the chest used for breathing.
+Middle School|Health|🦠|Bacteria|noun|Washing hands helps kill harmful bacteria.|Tiny living things that can sometimes cause disease.
+High School|Idioms & Phrasal Verbs|🐱👅|Cat Got Your Tongue|idiom|Why are you so quiet? Cat got your tongue?|Used when someone is unusually silent.
+High School|Idioms & Phrasal Verbs|⛈️☕|Storm in a Teacup|idiom|Their argument was just a storm in a teacup.|A lot of unnecessary anger about a small problem.
+High School|Idioms & Phrasal Verbs|🐷✈️|Pigs Might Fly|idiom|He thinks he will win the lottery, but pigs might fly.|Used to say that something is highly unlikely to happen.
+High School|Idioms & Phrasal Verbs|🐴👄|Straight from the Horse's Mouth|idiom|I heard the news straight from the horse's mouth.|Hearing something from the original source.
+High School|Idioms & Phrasal Verbs|🦋🤰|Butterflies in Stomach|idiom|I always get butterflies in my stomach before a speech.|A nervous feeling before doing something important.
+High School|Idioms & Phrasal Verbs|🪣🦵|Kick the Bucket|idiom|The old car finally kicked the bucket yesterday.|A casual phrase meaning to die or stop working.
+High School|Idioms & Phrasal Verbs|☁️9️⃣|On Cloud Nine|idiom|She was on cloud nine after getting the job.|To be extremely happy or joyful.
+High School|Idioms & Phrasal Verbs|☕🫘|Spill the Beans|idiom|Come on, spill the beans! What's the secret?|To reveal a secret.
+High School|Careers|👮|Police Officer|noun|The police officer directed traffic away from the accident.|A person whose job is to enforce the law and prevent crime.
+High School|Careers|🧑‍🚒|Firefighter|noun|The firefighter bravely entered the burning building.|A person whose job is to stop fires and rescue people.
+High School|Careers|🧑‍🚀|Astronaut|noun|The astronaut spent six months on the space station.|A person trained to travel in a spacecraft.
+High School|Careers|🧑‍✈️|Pilot|noun|The pilot safely landed the airplane during the storm.|A person who flies an aircraft.
+High School|Careers|🧑‍🎨|Artist|noun|The artist displayed her paintings in a famous gallery.|A person who creates paintings, drawings, or sculptures.
+High School|Careers|🧑‍🎤|Musician|noun|The musician practiced playing the guitar every day.|A person who writes, sings, or plays music.
+High School|Careers|🧑‍🔧|Mechanic|noun|The mechanic fixed the broken engine in my car.|A person whose job is repairing machines or vehicles.
+High School|Careers|🧑‍🌾|Farmer|noun|The farmer wakes up early to feed the animals and harvest crops.|A person who owns or manages a farm.
+High School|Abstract Concepts|🕰️|Time|noun|Time passes quickly when you are having fun.|The continuous sequence of existence and events.
+High School|Abstract Concepts|🌌|Space|noun|Scientists use telescopes to study outer space.|The physical universe beyond the earth's atmosphere.
+High School|Abstract Concepts|🧠|Knowledge|noun|Reading books is a great way to gain knowledge.|Information and skills acquired through experience or education.
+High School|Abstract Concepts|🤔|Logic|noun|She used logic to solve the complex puzzle.|Reasoning conducted according to strict principles of validity.
+High School|Abstract Concepts|🔮|Future|noun|Nobody can predict exactly what will happen in the future.|The time or a period of time following the moment of speaking.
+High School|Abstract Concepts|📜|History|noun|We study history to learn from the mistakes of the past.|The study of past events, particularly in human affairs.
+High School|Abstract Concepts|🧬|Evolution|noun|The theory of evolution explains how species change over time.|The gradual development of something, especially from a simple to a more complex form.
+High School|Abstract Concepts|🎭|Reality|noun|Virtual reality headsets can make a game feel like reality.|The world or the state of things as they actually exist.
+High School|Society|🏙️|Urbanization|noun|Urbanization has led to the rapid growth of large cities.|The increase in the proportion of people living in towns and cities.
+High School|Society|🏛️|Government|noun|The government introduced a new tax policy this year.|The group of people with the authority to govern a country or state.
+High School|Society|⚖️|Law|noun|Breaking the law can result in severe consequences.|The system of rules that a particular country or community recognizes as regulating the actions of its members.
+High School|Society|🚔|Law Enforcement|noun|Law enforcement agencies work together to stop international crime.|The activity of some members of government who act in an organized manner to enforce the law.
+High School|Society|🏥|Healthcare|noun|Access to quality healthcare is important for a healthy society.|The organized provision of medical care to individuals or a community.
+High School|Society|🏫|Education|noun|Higher education can open doors to many career opportunities.|The process of receiving or giving systematic instruction, especially at a school or university.
+High School|Society|🏭|Industry|noun|The automotive industry employs millions of people worldwide.|Economic activity concerned with the processing of raw materials and manufacture of goods.
+High School|Society|📈|Economy|noun|A strong economy leads to better living standards for everyone.|The wealth and resources of a country or region, especially in terms of the production and consumption of goods and services.
+High School|Arts & Culture|🎨|Art|noun|The museum houses a vast collection of modern art.|The expression or application of human creative skill and imagination.
+High School|Arts & Culture|🎶|Music|noun|Listening to classical music can help you focus while studying.|Vocal or instrumental sounds combined in such a way as to produce beauty of form, harmony, and expression of emotion.
+High School|Arts & Culture|💃|Dance|noun|Ballet is a highly technical form of dance.|A series of movements that match the speed and rhythm of a piece of music.
+High School|Arts & Culture|🎭|Drama|noun|The school's drama club put on an excellent play.|A play for theatre, radio, or television.
+High School|Arts & Culture|📸|Photography|noun|Photography requires an understanding of light and composition.|The art or practice of taking and processing photographs.
+High School|Arts & Culture|🎥|Film|noun|The director's latest film won several awards at the festival.|A motion picture; a movie.
+High School|Arts & Culture|✍️|Poetry|noun|Reading poetry can inspire deep emotional responses.|Literary work in which special intensity is given to the expression of feelings and ideas by the use of distinctive style and rhythm.
+High School|Arts & Culture|🏺|Sculpture|noun|The ancient Greeks created beautiful marble sculptures.|The art of making two- or three-dimensional representative or abstract forms, especially by carving stone or wood or by casting metal or plaster.
+High School|Global Issues|🌍|Climate Change|noun|Climate change is causing sea levels to rise globally.|Long-term shifts in temperatures and weather patterns.
+High School|Global Issues|♻️|Recycling|noun|Recycling helps reduce the amount of waste in landfills.|The action or process of converting waste into reusable material.
+High School|Global Issues|🏭|Pollution|noun|Air pollution is a major problem in many industrial cities.|The presence in or introduction into the environment of a substance or thing that has harmful or poisonous effects.
+High School|Global Issues|💧|Drought|noun|The prolonged drought caused many crops to fail.|A prolonged period of abnormally low rainfall, leading to a shortage of water.
+High School|Global Issues|🌊|Flood|noun|The heavy rains led to a severe flood in the valley.|An overflow of a large amount of water beyond its normal limits.
+High School|Global Issues|🌪️|Hurricane|noun|The hurricane destroyed many homes along the coast.|A storm with a violent wind, in particular a tropical cyclone in the Caribbean.
+High School|Global Issues|🌋|Eruption|noun|The volcanic eruption forced thousands to evacuate.|An act or instance of erupting.
+High School|Global Issues|🦠|Pandemic|noun|The global pandemic changed how we work and live.|An outbreak of a disease that occurs over a wide geographic area.
+High School|Global Issues|🕊️|Peace|noun|The United Nations works to maintain international peace.|Freedom from disturbance; tranquility.
+High School|Global Issues|🪖|War|noun|The war caused immense suffering for the civilian population.|A state of armed conflict between different nations or states or different groups within a nation or state.
+High School|Global Issues|🤝|Treaty|noun|The two countries signed a peace treaty to end the conflict.|A formally concluded and ratified agreement between countries.
+High School|Global Issues|🗣️|Protest|noun|Thousands gathered for a peaceful protest in the city center.|A statement or action expressing disapproval of or objection to something.
+High School|Global Issues|📉|Poverty|noun|Many organizations are working to eradicate global poverty.|The state of being extremely poor.
+High School|Global Issues|🍞|Hunger|noun|Famine and war can lead to widespread hunger.|A feeling of discomfort or weakness caused by lack of food.
+High School|Global Issues|⚖️|Equality|noun|Gender equality is essential for a fair society.|The state of being equal, especially in status, rights, and opportunities.
+High School|Global Issues|🤝|Human Rights|noun|Freedom of speech is considered a fundamental human right.|A right that is believed to belong justifiably to every person.
